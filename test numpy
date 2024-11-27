@@ -1,0 +1,5 @@
+import sqlalchemy as sqla
+import cx_Oracle
+# connection Detials
+#con  =  cx_Oracle.connect(user ="xxapps_query",password = "nohrquery",dsn = "idevebd1.ae.iffconet.com:1551/ebs_IFFDEV")
+print(sqla.__version__)
